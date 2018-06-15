@@ -1,0 +1,29 @@
+== Change log ==
+
+= 1.0.4 =
+* Subtitle removed from widget
+
+= 1.0.3 =
+* One page menu added
+* Fixed break-word issue
+* Fixed slider animation issue
+* Fixed Featured widget
+* Other minor fixed
+
+= 1.0.2 =
+* fixed-layout tag removed
+
+= 1.0.1 =
+* Removed hook corporate_plus_action_after_wp_head
+* Used function wp_add_inline_style() for dynamic css
+* 'sanitize_callback'=>'esc_url_raw' is used to sanitize image uploads
+* Post Formats css added
+* Copyright information added to different third party resources
+
+= 1.0.0 =
+* Theme Customizer Extended
+* Fixed and Extended CSS
+* Other major changes
+
+= 0.0.1 =
+* Submitted to WordPress.org
